@@ -3,6 +3,10 @@
 ## Overview
 A Effective and fully packed JavaScript-based blockchain utility module using ethers.js to interact with the Ethereum network.
 
+[![License](https://img.shields.io/badge/license-ISC-blue.svg)](LICENSE)
+[![NPM Version](https://img.shields.io/npm/v/blockchain_utility_suite.svg)](https://www.npmjs.com/package/blockchain_utility_suite)
+[![GitHub Issues](https://img.shields.io/github/issues/Soundar6385/blockchain_utility_suite.svg)](https://github.com/Soundar6385/blockchain_utility_suite/issues)
+
 ## Installation
 
 ### Install via npm
