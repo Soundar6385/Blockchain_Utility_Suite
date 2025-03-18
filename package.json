@@ -1,0 +1,35 @@
+{
+  "name": "blockchain_utility_suite",
+  "version": "1.0.0",
+  "description": "A collection of basic Node.js blockchain utility functions.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soundar6385/blockchain_utility_suite.git"
+  },
+  "keywords": [
+    "utilities",
+    "nodejs",
+    "helper",
+    "utils",
+    "javascript",
+    "blockchain",
+    "ethereum"
+  ],
+  "author": "Soundar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Soundar6385/blockchain_utility_suite/issues"
+  },
+  "homepage": "https://github.com/Soundar6385/blockchain_utility_suite#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "dependencies": {
+    "ethers": "^6.13.5"
+  }
+}
